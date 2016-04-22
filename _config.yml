@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: liuxuan0526@gmail.com
 copyright_name: Your/Project/Corporate Name
 description: "My Blog!"
-baseurl: "blog"
+baseurl: ""
 url: "http://liuxuan0526.github.io"
 twitter_username: 
 github_username:  liuxuan0526
