@@ -1,0 +1,21 @@
+# Site settings
+title: XuanLiu's Blog
+header-img: img/home-bg.jpg
+email: liuxuan0526@gmail.com
+copyright_name: Your/Project/Corporate Name
+description: "My Blog!"
+baseurl: "blog"
+url: "http://liuxuan0526.github.io"
+twitter_username: 
+github_username:  liuxuan0526
+facebook_username:  
+email_username:  liuxuan0526
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
