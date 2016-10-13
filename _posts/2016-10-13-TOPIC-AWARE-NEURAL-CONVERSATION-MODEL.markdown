@@ -2,9 +2,9 @@
 layout:     post
 title:      "TOPIC AWARE NEURAL CONVERSATION MODEL"
 subtitle:   ""
-date:       2014-08-24 12:00:00
+date:       2016-10-13 12:00:00
 author:     "liuxuan0526"
-header-img: "img/post-bg-04.jpg"
+header-img: "img/back.jpg"
 ---
 
 #### paper
