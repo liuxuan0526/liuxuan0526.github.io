@@ -8,7 +8,7 @@ header-img: "img/post-bg-04.jpg"
 ---
 
 #### paper
-https://arxiv.org/pdf/1606.08340v2.pdf
+[TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
 
 #### Abstract
 We consider incorporating topic information into the
