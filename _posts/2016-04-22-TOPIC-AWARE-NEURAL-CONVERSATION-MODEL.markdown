@@ -7,8 +7,8 @@ author:     "liuxuan0526"
 header-img: "img/post-bg-04.jpg"
 ---
 
-#### [TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
-#### Abstract
+[TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
+Abstract
 We consider incorporating topic information into the
 sequence-to-sequence framework to generate informative and
 interesting responses for chatbots. To this end, we propose
@@ -32,7 +32,7 @@ informative and interesting responses, and significantly outperform
 the-state-of-the-art response generation models.
 
 
-##### introduction
+introduction
 MT models such as Seq2Seq with attention tends to generate trivial responses like 'me too', 'I see' due to the hight frequency of these patterns in data
 
 unlike Li who try to **passively** avoid generating trivial responses by penalizing their generation probabilities, we consider solving the problem by **actively** bringing content into responses by topics.
@@ -41,4 +41,4 @@ Given an input message, we predict possible topics that can be talked about in r
 
 In human-human conversation, people often associate an input message with topically related concepts in their mind. Based on the concepts, they organize content and select words for their responses. 
 
-##### model
+model
