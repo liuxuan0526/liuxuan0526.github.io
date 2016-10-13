@@ -7,7 +7,8 @@ author:     "liuxuan0526"
 header-img: "img/post-bg-04.jpg"
 ---
 
-### [TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
+#### paper
+https://arxiv.org/pdf/1606.08340v2.pdf
 
 #### Abstract
 We consider incorporating topic information into the
@@ -42,4 +43,4 @@ Given an input message, we predict possible topics that can be talked about in r
 In human-human conversation, people often associate an input message with topically related concepts in their mind. Based on the concepts, they organize content and select words for their responses. 
 
 #### model
-![image](../img/1.png)
+![image]({{ site.baseurl }}/img/1.png)
