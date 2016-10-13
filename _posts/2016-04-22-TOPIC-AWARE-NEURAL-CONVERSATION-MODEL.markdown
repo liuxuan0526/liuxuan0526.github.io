@@ -8,6 +8,7 @@ header-img: "img/post-bg-04.jpg"
 ---
 
 ### [TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
+
 #### Abstract
 We consider incorporating topic information into the
 sequence-to-sequence framework to generate informative and
