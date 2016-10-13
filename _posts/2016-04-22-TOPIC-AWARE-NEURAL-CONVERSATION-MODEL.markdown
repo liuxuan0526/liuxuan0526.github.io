@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      "TOPIC AWARE NEURAL CONVERSATION MODEL"
+subtitle:   ""
+date:       2014-08-24 12:00:00
+author:     "liuxuan0526"
+header-img: "img/post-bg-04.jpg"
+---
 
 #### [TOPIC AWARE NEURAL CONVERSATION MODEL](https://arxiv.org/pdf/1606.08340v2.pdf)
 #### Abstract
